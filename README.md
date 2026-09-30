@@ -1,1 +1,1 @@
-# ai-interview-preparator
+# InterviewAi
